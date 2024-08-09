@@ -8,7 +8,7 @@ An express server with an array that can be viewed and edited using different HT
 - PUT (Updates resource or creates resource if resource doesn't exist)
   - localhost:3000/api/:id
 - POST (Sends information to the server to be processed)
-  - localhost:3000/api/:id
+  - localhost:3000/api
 - DELETE (Deletes information from a server)
   - localhost:3000/api/:id
 
